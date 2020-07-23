@@ -1,0 +1,62 @@
+body{
+
+
+    background-color: ghostwhite;
+}
+
+h1{
+    
+
+     font-family: sans-serif;
+     color: white;
+     text-shadow: 
+       1px 1px 8px black, 
+       .5em -.5em 0 gold, 
+       1em .4em 0 orange, 
+       1.5em .4em 10vw orange, 
+       0 0 10vw gold;
+        font-size: 10vw;
+
+        margin-bottom: 6%;
+        padding-top: 3%;
+        
+}
+
+.todo{
+
+    height: auto;
+    width:auto;
+    text-align: center;
+   
+
+}
+
+li{
+    list-style: decimal;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 2vw */
+    color: royalblue;
+    
+}
+
+.items{
+    text-align: left;
+    /* padding-left: 1%; */
+    /* font-size: 6vw */
+
+}
+.btns{
+    float: right;
+    /* text-align: right; */
+
+}
+.hello{
+
+
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+}
